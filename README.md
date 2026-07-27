@@ -12,7 +12,9 @@
 
 ## About
 
-Engineering student building software with a strong foundation in computer science fundamentals—algorithms, data structures, systems architecture, and optimization. I prioritize depth over breadth and understanding how things work over what's trending.
+I build software with a focus on strong engineering fundamentals. My work centers around computer science, modern software development, and AI-powered applications, with an emphasis on clean architecture, efficient algorithms, and maintainable systems.
+
+I believe that technologies evolve, but solid engineering principles remain constant. My goal is to build software that is reliable, scalable, and thoughtfully designed.
 
 **I build:** reliable systems, clean architectures, and production-quality software.
 
@@ -125,7 +127,7 @@ Building depth over breadth across systems and AI engineering:
 
 <div align="center">
   <blockquote>
-    <p><em>Master fundamentals first. Technology changes. Problem solving stays.</em></p>
+    <p><em>Mastering the fundamentals behind modern software systems.</em></p>
   </blockquote>
   <sub>Building software with clarity and engineering discipline.</sub>
 </div>
