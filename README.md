@@ -1,184 +1,213 @@
+<div align="center">
+
 # Raghuvir Anturkar
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3500&pause=800&color=4C6EF5&center=true&vCenter=true&width=600&lines=Software+Engineer;Systems+Thinker;AI+%26+Data+Engineer;Building+from+First+Principles)](https://git.io/typing-svg)
+### Software Engineering • AI Systems • Data Engineering
 
----
+<p>
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=22&duration=3500&pause=1000&color=4C6EF5&center=true&vCenter=true&width=700&lines=Building+Software+from+First+Principles;Software+Engineering;Artificial+Intelligence;Data+Engineering;Algorithms+%26+System+Design" alt="Typing SVG" />
+</p>
 
-## About
+<p>
+  <a href="https://linkedin.com/in/raghuviranturkar">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:raghuanturkar8@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://github.com/raghuviranturkar">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
+  </a>
+</p>
 
-Engineering student building software with a strong foundation in computer science fundamentals—algorithms, data structures, systems architecture, and optimization. I prioritize depth over breadth and understanding how things work over what's trending.
-
-**I build:** reliable systems, clean architectures, and production-quality software.
-
-**I focus on:** principles that endure as technology evolves.
-
----
-
-## Featured Work
-
-<div align="center">
-  <table>
-    <tr>
-      <td width="50%" valign="top">
-        <h3 align="center">AI Data Intelligence Platform</h3>
-        <p align="center">
-          <a href="https://github.com/raghuviranturkar/AI-Data-Intelligence" target="_blank">
-            <img src="https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github&logoColor=white" />
-          </a>
-        </p>
-        <p>Production-grade platform that automates the ML lifecycle from raw data validation to model explainability.</p>
-        <p><strong>Capabilities:</strong></p>
-        <ul>
-          <li>Dataset validation and quality detection</li>
-          <li>Automated EDA and feature engineering</li>
-          <li>ML model training with AutoML comparison</li>
-          <li>SHAP-based prediction explainability</li>
-          <li>Interactive dashboards and report generation</li>
-        </ul>
-        <p><strong>Stack:</strong> <code>Python</code> · <code>FastAPI</code> · <code>React</code> · <code>Scikit-learn</code> · <code>SHAP</code> · <code>XGBoost</code></p>
-      </td>
-      <td width="50%" valign="top">
-        <h3 align="center">TradeBook — Order Book Engine</h3>
-        <p align="center">
-          <a href="#" target="_blank">
-            <img src="https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github&logoColor=white" />
-          </a>
-        </p>
-        <p>Low-latency C++ order matching engine with professional architecture and comprehensive testing.</p>
-        <p><strong>Engineering highlights:</strong></p>
-        <ul>
-          <li>OOP design with clean separation of concerns</li>
-          <li>Order matching with price-time priority</li>
-          <li>STL-based data structures for performance</li>
-          <li>Unit tested with Catch2</li>
-          <li>Build system with CMake</li>
-        </ul>
-        <p><strong>Stack:</strong> <code>Modern C++</code> · <code>STL</code> · <code>CMake</code> · <code>Catch2</code></p>
-      </td>
-    </tr>
-  </table>
 </div>
 
 ---
 
-## Technical Stack
+# About
 
-<table align="center">
-  <tr>
-    <td align="center" width="120"><strong>Languages</strong></td>
-    <td align="left"><code>C++</code> · <code>Python</code> · <code>C</code> · <code>SQL</code></td>
-  </tr>
-  <tr>
-    <td align="center" width="120"><strong>Backend</strong></td>
-    <td align="left"><code>FastAPI</code> · <code>Flask</code> · <code>REST APIs</code></td>
-  </tr>
-  <tr>
-    <td align="center" width="120"><strong>Data & AI</strong></td>
-    <td align="left"><code>Pandas</code> · <code>NumPy</code> · <code>Scikit-learn</code> · <code>SHAP</code> · <code>XGBoost</code></td>
-  </tr>
-  <tr>
-    <td align="center" width="120"><strong>Databases</strong></td>
-    <td align="left"><code>MySQL</code> · <code>PostgreSQL</code></td>
-  </tr>
-  <tr>
-    <td align="center" width="120"><strong>Tools</strong></td>
-    <td align="left"><code>Git</code> · <code>Docker</code> · <code>CMake</code> · <code>Linux</code></td>
-  </tr>
+I build software by combining strong computer science fundamentals with practical engineering.
+
+My interests span **software engineering, artificial intelligence, data engineering, and high-performance systems**. Rather than chasing every new technology, I focus on understanding the principles that make software reliable, scalable, and maintainable.
+
+I enjoy solving problems through clean architecture, efficient algorithms, and thoughtful system design.
+
+---
+
+# Featured Projects
+
+<table>
+<tr>
+
+<td width="50%" valign="top">
+
+## 🤖 AI Data Intelligence Platform
+
+An end-to-end platform that transforms raw datasets into production-ready insights with minimal manual effort.
+
+### Highlights
+
+- Automated dataset validation
+- Data quality scoring
+- Missing value & outlier detection
+- Automated EDA
+- Feature engineering recommendations
+- AutoML model comparison
+- SHAP explainability
+- Executive dashboard
+- Professional PDF reporting
+
+**Tech**
+
+`Python` · `FastAPI` · `React` · `Pandas` · `NumPy` · `Scikit-learn` · `SHAP` · `XGBoost`
+
+<br>
+
+<a href="https://github.com/raghuviranturkar/AI-Data-Intelligence">
+<img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</td>
+
+<td width="50%" valign="top">
+
+## 📈 TradeBook
+
+A modern C++ order matching engine inspired by professional trading systems.
+
+### Highlights
+
+- Price-Time Priority Matching
+- Modern C++ Design
+- STL Containers
+- Clean OOP Architecture
+- Unit Testing
+- Modular Design
+- CMake Build System
+- Low-Latency Order Processing
+
+**Tech**
+
+`C++20` · `STL` · `CMake` · `Catch2`
+
+<br>
+
+<a href="#">
+<img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</td>
+
+</tr>
 </table>
 
 ---
 
-## Engineering Roadmap
+# What I Build
 
-<table align="center">
-  <tr>
-    <td width="220"><strong>Data Structures & Algorithms</strong></td>
-    <td width="300"><progress value="85" max="100"></progress></td>
-    <td width="80">85%</td>
-  </tr>
-  <tr>
-    <td><strong>Modern C++</strong></td>
-    <td><progress value="75" max="100"></progress></td>
-    <td>75%</td>
-  </tr>
-  <tr>
-    <td><strong>System Programming</strong></td>
-    <td><progress value="65" max="100"></progress></td>
-    <td>65%</td>
-  </tr>
-  <tr>
-    <td><strong>Database Systems</strong></td>
-    <td><progress value="70" max="100"></progress></td>
-    <td>70%</td>
-  </tr>
-  <tr>
-    <td><strong>Machine Learning</strong></td>
-    <td><progress value="65" max="100"></progress></td>
-    <td>65%</td>
-  </tr>
-  <tr>
-    <td><strong>Distributed Systems</strong></td>
-    <td><progress value="40" max="100"></progress></td>
-    <td>40%</td>
-  </tr>
-  <tr>
-    <td><strong>Software Architecture</strong></td>
-    <td><progress value="70" max="100"></progress></td>
-    <td>70%</td>
-  </tr>
-</table>
+- Backend applications
+- AI-powered software
+- Data engineering tools
+- Modern C++ systems
+- Machine learning workflows
+- Developer-focused utilities
 
 ---
 
-## GitHub Activity
+# Tech Stack
 
-<div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=raghuviranturkar&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github&include_all_commits=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raghuviranturkar&layout=compact&theme=github_dark&hide_border=true&size_weight=0.5&count_weight=0.5" />
-</div>
+### Languages
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=raghuviranturkar&theme=github-dark-blue&hide_border=true" />
-</div>
+<p>
+<img src="https://skillicons.dev/icons?i=cpp,c,python,mysql"/>
+</p>
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=raghuviranturkar&theme=github-dark&hide_border=true&bg_color=0d1117&color=58a6ff&line=4C6EF5&point=ffffff" />
-</div>
+### Backend
 
----
+<p>
+<img src="https://skillicons.dev/icons?i=fastapi,flask"/>
+</p>
 
-## Current Focus
+### Data & AI
 
-Building depth over breadth across systems and AI engineering:
+<p>
+<img src="https://skillicons.dev/icons?i=python"/>
+</p>
 
-| Area | Focus |
-|------|-------|
-| **Systems** | Modern C++, OS fundamentals, concurrency, memory management |
-| **Algorithms** | Data structures, complexity analysis, optimization techniques |
-| **Data** | Database internals, query optimization, data pipeline architecture |
-| **AI** | Production ML systems, model interpretability, MLOps practices |
+`Pandas` • `NumPy` • `Scikit-learn` • `XGBoost` • `SHAP` • `Matplotlib`
 
----
+### Tools
 
-## Let's Connect
-
-<div align="center">
-  <a href="https://linkedin.com/in/raghuviranturkar" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:raghuanturkar8@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://github.com/raghuviranturkar" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-</div>
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,docker,linux"/>
+</p>
 
 ---
 
+# Current Focus
+
+```text
+• Modern C++ and Software Design
+
+• Data Structures & Algorithms
+
+• Operating Systems
+
+• Database Systems
+
+• Machine Learning Engineering
+
+• AI System Design
+
+• Performance Optimization
+
+• Clean Architecture
+```
+
+---
+
+# Engineering Principles
+
+```text
+Write code for humans first.
+
+Optimize only after measuring.
+
+Prefer simplicity over cleverness.
+
+Build reusable components.
+
+Design before implementation.
+
+Keep learning the fundamentals.
+```
+
+---
+
+# Connect
+
+<p align="center">
+<a href="https://linkedin.com/in/raghuviranturkar">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:raghuanturkar8@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://github.com/raghuviranturkar">
+<img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+</p>
+
+---
+
 <div align="center">
-  <blockquote>
-    <p><em>Master fundamentals first. Technology changes. Problem solving stays.</em></p>
-  </blockquote>
-  <sub>Building software with clarity and engineering discipline.</sub>
+
+### *Master fundamentals first.*
+
+Technology evolves.
+
+Strong engineering principles endure.
+
 </div>
