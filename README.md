@@ -1,5 +1,7 @@
 <div align="center">
+
 # Raghuvir Anturkar
+
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3500&pause=800&color=4C6EF5&center=true&vCenter=true&width=600&lines=Software+Engineering;Systems+Thinker;AI+%26+Data+Engineering;Building+from+First+Principles)](https://git.io/typing-svg)
 
@@ -88,46 +90,6 @@ Engineering student building software with a strong foundation in computer scien
 </table>
 
 ---
-
-## Engineering Roadmap
-
-<table align="center">
-  <tr>
-    <td width="220"><strong>Data Structures & Algorithms</strong></td>
-    <td width="300"><progress value="85" max="100"></progress></td>
-    <td width="80">85%</td>
-  </tr>
-  <tr>
-    <td><strong>Modern C++</strong></td>
-    <td><progress value="75" max="100"></progress></td>
-    <td>75%</td>
-  </tr>
-  <tr>
-    <td><strong>System Programming</strong></td>
-    <td><progress value="65" max="100"></progress></td>
-    <td>65%</td>
-  </tr>
-  <tr>
-    <td><strong>Database Systems</strong></td>
-    <td><progress value="70" max="100"></progress></td>
-    <td>70%</td>
-  </tr>
-  <tr>
-    <td><strong>Machine Learning</strong></td>
-    <td><progress value="65" max="100"></progress></td>
-    <td>65%</td>
-  </tr>
-  <tr>
-    <td><strong>Distributed Systems</strong></td>
-    <td><progress value="40" max="100"></progress></td>
-    <td>40%</td>
-  </tr>
-  <tr>
-    <td><strong>Software Architecture</strong></td>
-    <td><progress value="70" max="100"></progress></td>
-    <td>70%</td>
-  </tr>
-</table>
 
 ---
 
