@@ -1,5 +1,6 @@
 <div align="center">
-# Raghuvir Anturkar
+  
+## Raghuvir Anturkar
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3500&pause=800&color=4C6EF5&center=true&vCenter=true&width=600&lines=Software+Engineering;Systems+Thinker;AI+%26+Data+Engineering;Building+from+First+Principles)](https://git.io/typing-svg)
 
