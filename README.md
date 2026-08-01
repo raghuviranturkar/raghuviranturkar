@@ -20,7 +20,23 @@ I believe that technologies evolve, but solid engineering principles remain cons
 **I focus on:** principles that endure as technology evolves.
 
 ---
+## 🐍 Contribution Snake
 
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/raghuviranturkar/raghuviranturkar/output/github-contribution-grid-snake-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/raghuviranturkar/raghuviranturkar/output/github-contribution-grid-snake.svg"
+  />
+  <img
+    alt="GitHub contribution snake"
+    src="https://raw.githubusercontent.com/raghuviranturkar/raghuviranturkar/output/github-contribution-grid-snake.svg"
+  />
+</picture>
+---
 ## Featured Work
 
 <div align="center">
