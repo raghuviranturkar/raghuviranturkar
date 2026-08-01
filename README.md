@@ -84,6 +84,7 @@ I believe that technologies evolve, but solid engineering principles remain cons
 
 ---
 
+
 ## Technical Stack
 
 <table align="center">
@@ -108,19 +109,6 @@ I believe that technologies evolve, but solid engineering principles remain cons
     <td align="left"><code>Git</code> · <code>Docker</code> · <code>CMake</code> · <code>Linux</code></td>
   </tr>
 </table>
-
----
-
-## Current Focus
-
-Building depth over breadth across systems and AI engineering:
-
-| Area | Focus |
-|------|-------|
-| **Systems** | Modern C++, OS fundamentals, concurrency, memory management |
-| **Algorithms** | Data structures, complexity analysis, optimization techniques |
-| **Data** | Database internals, query optimization, data pipeline architecture |
-| **AI** | Production ML systems, model interpretability, MLOps practices |
 
 ---
 
