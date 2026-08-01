@@ -1,14 +1,11 @@
 <div align="center">
-
 # Raghuvir Anturkar
-
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3500&pause=800&color=4C6EF5&center=true&vCenter=true&width=600&lines=Software+Engineering;Systems+Thinker;AI+%26+Data+Engineering;Building+from+First+Principles)](https://git.io/typing-svg)
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=raghuviranturkar&label=Profile%20Views&color=4C6EF5&style=flat-square" alt="Profile Views" />
 </p>
-
 ## About
 
 I build software with a focus on strong engineering fundamentals. My work centers around computer science, modern software development, and AI-powered applications, with an emphasis on clean architecture, efficient algorithms, and maintainable systems.
@@ -16,7 +13,6 @@ I build software with a focus on strong engineering fundamentals. My work center
 I believe that technologies evolve, but solid engineering principles remain constant. My goal is to build software that is reliable, scalable, and thoughtfully designed.
 
 **I build:** reliable systems, clean architectures, and production-quality software.
-
 **I focus on:** principles that endure as technology evolves.
 
 ---
