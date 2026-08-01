@@ -7,7 +7,7 @@
   <img src="https://komarev.com/ghpvc/?username=raghuviranturkar&label=Profile%20Views&color=4C6EF5&style=flat-square" alt="Profile Views" />
 </p>
 
-## About Me
+## About Me 
 
 I build software with a focus on strong engineering fundamentals. My work centers around computer science, modern software development, and AI-powered applications, with an emphasis on clean architecture, efficient algorithms, and maintainable systems.
 
