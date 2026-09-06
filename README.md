@@ -33,7 +33,9 @@ I believe that technologies evolve, but solid engineering principles remain cons
     src="https://raw.githubusercontent.com/raghuviranturkar/raghuviranturkar/output/github-contribution-grid-snake.svg"
   />
 </picture>
+
 ---
+
 ## Featured Work
 
 <div align="center">
